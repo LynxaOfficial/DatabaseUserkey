@@ -17,6 +17,12 @@
       "key": "Ridwanjelek",
       "role": "PREMIUM",
       "expired": null
+    },
+    {
+      "username": "free",
+      "key": "free",
+      "role": "USER",
+      "expired": "2026-03-30"
     }
   ]
 }
