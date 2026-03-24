@@ -5,6 +5,12 @@
       "key": "adm",
       "role": "OWNER",
       "expired": null
+    },
+    {
+      "username": "yanz",
+      "key": "yanzaja",
+      "role": "PREMIUM",
+      "expired": null
     }
   ]
 }
