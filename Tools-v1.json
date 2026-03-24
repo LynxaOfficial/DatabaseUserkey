@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "rizz",
+      "key": "adm",
+      "role": "OWNER",
+      "expired": null
+    }
+  ]
 }
